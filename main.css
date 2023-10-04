@@ -18,19 +18,20 @@ body {
 }
 
 .backGround {
-    background-position: absolute;
-
+    position: relative;
+    width: 100vw;
     background-image: url(images/OIP.jpg);
+    height: 67px;
 
 
 }
 
 .backGround2 {
-    background-position: fixed;
+    position: fixed;
     background-image: url(images/OIP2.jpg);
-    margin-top: 700px;
+    bottom: 0;
     height: 50px;
-
+    width: 100vw;
 
 }
 
