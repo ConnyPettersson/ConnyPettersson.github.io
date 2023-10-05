@@ -20,8 +20,8 @@ body {
 .backGround {
     position: relative;
     width: 100vw;
-    background-image: url(images/OIP.jpg);
-    height: 67px;
+    background-image: url(images/OIP2.jpg);
+    height: 50px;
 
 
 }
@@ -36,61 +36,67 @@ body {
 }
 
 h1 {
+    position: absolute;
     padding: 8px;
-    margin-left: 10px;
+    margin-left: 350px;
+    color: aliceblue;
+    margin-top: 50px;
 }
 
 .connyImage {
     position: absolute;
     background-image: url(images/Conny3.png);
-    background-position: center;
+    margin-top: 50px;
     height: 400px;
     width: 300px;
     background-size: cover;
-    margin-left: 600px;
+    margin-left: 20px;
 
 }
 
 
 
 h2 {
-    color: rgb(80, 11, 240);
-    margin-left: 50px;
+    position: absolute;
+    color: aliceblue;
+    margin-left: 400px;
+    margin-top: 150px;
 }
 
 #text1 {
 
-    color: rgb(80, 11, 240);
+    color: aliceblue;
     position: absolute;
-    margin-left: 85px;
-    margin-top: 55px;
+    margin-left: 450px;
+    margin-top: 250px;
 }
 
 #text2 {
 
-    color: rgb(80, 11, 240);
+    color: aliceblue;
     position: absolute;
-    margin-left: 140px;
-    margin-top: 150px;
+    margin-left: 500px;
+    margin-top: 350px;
 }
 
 .listContainer {
-    margin-top: 250px;
+    margin-top: 650px;
     position: absolute;
-    color: blueviolet;
+    color: aliceblue;
+
 }
 
 #text3 {
-    color: rgb(129, 29, 96);
+    color: azure;
     position: absolute;
-    margin-left: 940px;
-    margin-top: 150px;
+    margin-left: 25px;
+    margin-top: 475px;
 
 }
 
 .p {
     position: absolute;
-    color: blue;
-    margin-left: 940px;
-    margin-top: 180px;
+    color: azure;
+    margin-left: 25px;
+    margin-top: 500px;
 }
